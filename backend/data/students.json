@@ -1,0 +1,37 @@
+[
+    {
+        "enrollment": "A2305221001",
+        "name": "Ali Valiyev",
+        "email": "ali@example.com",
+        "course": "B.Tech CSE",
+        "gender": "Male",
+        "marks": 95,
+        "grade": "A+"
+    },
+    {
+        "enrollment": "A2305221002",
+        "name": "Madina Karimova",
+        "email": "madina@example.com",
+        "course": "BCA",
+        "gender": "Female",
+        "marks": 85,
+        "grade": "A"
+    },
+    {
+        "enrollment": "A2305221003",
+        "name": "Azizbek Rahimov",
+        "email": "aziz@example.com",
+        "course": "MCA",
+        "gender": "Male",
+        "marks": 75,
+        "grade": "B"
+    },
+    {
+        "enrollment": "aaaa",
+        "name": "Asilbek Ermatov",
+        "email": "aaa@uuuu.gmail.com",
+        "course": "B.Sc IT",
+        "gender": "Male",
+        "marks": 89
+    }
+]
